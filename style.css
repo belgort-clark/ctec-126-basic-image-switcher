@@ -1,0 +1,17 @@
+body {
+    background: #000000;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+img {
+    background: #ffffff;
+    border: 1px solid #000000;
+    padding: 10px 10px 60px 10px;
+    border-radius: 7px;
+}
