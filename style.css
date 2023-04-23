@@ -1,35 +1,36 @@
-body,html {
-    margin: 0;
-    padding: 0;
+body,
+html {
+  margin: 0;
+  padding: 0;
 }
 
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 3rem;
-    background: #000000;
-    color: #ffffff;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 3rem;
+  background: #000000;
+  color: #ffffff;
 }
 
 img {
-    background: #ffffff;
-    border: 1px solid #000000;
-    padding: 10px 10px 60px 10px;
-    border-radius: 7px;
-    box-shadow: 5px 5px 25px #dadada;
+  background: #ffffff;
+  border: 1px solid #000000;
+  padding: 10px 10px 60px 10px;
+  border-radius: 7px;
+  box-shadow: 5px 5px 25px #dadada;
 }
 
 .container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
 #imageinfo {
-    margin-top: 20px;
+  margin-top: 20px;
 }
